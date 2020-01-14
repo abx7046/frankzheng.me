@@ -1,0 +1,109 @@
+baseurl: "https://yihui.org"
+languageCode: "en-us"
+title: "Frank Zheng"
+theme: "hugo-ivy"
+disqusShortname: "frank"
+ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  cn: "/cn/:year/:month/:slug/"
+  en: "/en/:year/:month/:slug/"
+
+menu:
+  main:
+    - name: "About"
+      url: "/en/about/"
+      weight: 1
+    - name: "Blog"
+      url: "/en/"
+      weight: 2
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 3
+    - name: "日志"
+      url: "/cn/"
+      weight: 4
+  en:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/en/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "Vitae"
+      url: "/en/vitae/"
+      weight: 4
+    - name: "fitness"
+      url: "/en/fitness/"
+      weight: 5
+    - name: "中文"
+      url: "/cn/"
+      weight: 6
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 2
+    - name: "日志"
+      url: "/cn/"
+      weight: 3
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 4
+    - name: "菜谱"
+      url: "/cn/recipe/"
+      weight: 5
+    - name: "English"
+      url: "/en/"
+      weight: 6
+
+
+params:
+  description: "Frank Zheng"
+  footer: "&copy; [Frank Zheng](/) 2019"
+  disqusURL: "https://yihui.org"
+  customJS:
+    - "js/fix-toc.js"
+    - "js/center-img.js"
+    - "js/right-quote.js"
+    - "js/no-highlight.js"
+    - "js/fix-footnote.js"
+    - "js/math-code.js"
+    - "js/external-link.js"
+    - "js/alt-title.js"
+    - "js/header-link.js"
+  githubContentURL: "https://github.com/rbind/yihui/edit/master/content/"
+  #twitterImage: "/images/logo.png"
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion: "9.12.0"
+  highlightjsCDN: "//cdn.bootcss.com"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+
+  logo:
+    en:
+      img: "/images/logo.png"
+      url: "/"
+      alt: "Frank Zheng"
+      tag: ""
+
+  author:
+    en: "Frank Zheng"
+    cn: "谢益辉"
+
+  lang:
+    edit:
+      cn: "编辑"
+    license:
+      cn: "版权"
+    subscribe:
+      cn: "订阅"
