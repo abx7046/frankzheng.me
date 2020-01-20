@@ -20,46 +20,40 @@ menu:
     - name: "Blog"
       url: "/en/"
       weight: 2
-    - name: "关于"
+    - name: "我"
       url: "/cn/about/"
       weight: 3
-    - name: "日志"
+    - name: "想"
       url: "/cn/"
       weight: 4
   en:
-    - name: "Home"
-      url: "/"
-      weight: 1
     - name: "About"
       url: "/en/about/"
-      weight: 2
+      weight: 1
     - name: "Blog"
       url: "/en/"
-      weight: 3
+      weight: 2
     - name: "Vitae"
       url: "/en/vitae/"
-      weight: 4
-    - name: "fitness"
-      url: "/en/fitness/"
-      weight: 5
+      weight: 3
     - name: "中文"
       url: "/cn/"
-      weight: 6
-  cn:
-    - name: "首页"
-      url: "/"
-      weight: 1
-    - name: "关于"
-      url: "/cn/about/"
-      weight: 2
-    - name: "日志"
-      url: "/cn/"
-      weight: 3
-    - name: "简历"
-      url: "/cn/vitae/"
       weight: 4
-    - name: "菜谱"
+  cn:
+    - name: "我"
+      url: "/cn/about/"
+      weight: 1
+    - name: "想"
+      url: "/cn/"
+      weight: 2
+    - name: "历"
+      url: "/cn/vitae/"
+      weight: 3
+    - name: "厨"
       url: "/cn/recipe/"
+      weight: 4
+    - name: "健"
+      url: "/fitness/"
       weight: 5
     - name: "English"
       url: "/en/"
@@ -98,7 +92,7 @@ params:
 
   author:
     en: "Frank Zheng"
-    cn: "谢益辉"
+    cn: "郑翔"
 
   lang:
     edit:
