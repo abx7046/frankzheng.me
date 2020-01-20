@@ -61,7 +61,7 @@ menu:
 
 
 params:
-  description: "Frank Zheng"
+  description: "Personal website of Frank Zheng; 郑翔的个人网站"
   footer: "&copy; [Frank Zheng](/) 2019"
   disqusURL: "https://frankzheng.me"
   customJS:
@@ -74,7 +74,7 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
-  githubContentURL: "https://github.com/Frankxz/Frank.org/tree/master/content"
+  githubContentURL: "https://github.com/Frankxz/Frank.org/edit/master/content/"
   #twitterImage: "/images/logo.png"
 
   # options for highlight.js (version, additional languages, and theme)
