@@ -74,12 +74,12 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
-  githubContentURL: "https://github.com/Frankxz/Frank.org/edit/master/content/"
+  githubContentURL: "https://github.com/Frankxz/frankzheng.me/edit/master/content/"
   #twitterImage: "/images/logo.png"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.12.0"
-  highlightjsCDN: "//cdn.bootcss.com"
+  highlightjsCDN: "//cdnjs.cloudflare.com/ajax/libs"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
 
@@ -99,5 +99,8 @@ params:
       cn: "编辑"
     license:
       cn: "版权"
-    subscribe:
-      cn: "订阅"
+
+      
+  blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
+    fractions: false
