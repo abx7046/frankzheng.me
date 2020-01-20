@@ -4,7 +4,7 @@ slug: "en/about"
 ---
 
 
-My name is Frank Zheng. You can know more about me on the [homepage](/) and my [vitae](../vitae/). This blog is about statistics, data science, graphics, life, travel, and fitness. I often update my old posts (even after years) to correct errors and remove outdated information, so please don't take everything for granted. All opinions expressed here are my own, and I don't represent anyone else. 
+My name is Frank Zheng. You can know more about me on the [homepage](/) and my [vitae](../vitae/). This blog is about statistics, data science, graphics, life, travel, and fitness. I often update my old posts to correct errors and remove outdated information, so please don't take everything for granted. All opinions expressed here are my own, and I don't represent anyone else. 
 
 ## Contact me
 
