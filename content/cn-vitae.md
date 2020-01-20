@@ -6,7 +6,7 @@ disable_comments: true
 
 # 郑翔
 
-英文版简历下载链接: <a href="https://github.com/Frankxz/frankzheng.me/blob/master/docs/CV%20FRANK%20ZHENG.pdf" download>简历</a>
+英文版简历下载链接: <a href="https://github.com/Frankxz/frankzheng.me/blob/master/docs/CV%20FRANK%20ZHENG.pdf?raw=true" download>简历</a>
 
 ## 联系方式
 
@@ -53,7 +53,7 @@ Email：frankzheng@me.com；主页：<https://frankzheng.me>; 领英：[@Frank Z
 
 <!--以下多数幻灯片都是基于 R Markdown 文档输出的 HTML 网页格式（尤其是近年来的幻灯片）；若需要查看 R Markdown 源文档，只需要在浏览器地址栏中将 `.html` 扩展名替换为 `.Rmd` 即可下载相应的 R Markdown 文档。-->
 
-- 郑翔，2019， _Becoming a Full Stack Data Science Professional_, 塔尔萨大学邀请讲座 ([幻灯片](https://github.com/Frankxz/frankzheng.me/blob/master/docs/FSDS.pptx)) 
+- 郑翔，2019， _Becoming a Full Stack Data Science Professional_, 塔尔萨大学邀请讲座 ([幻灯片](https://github.com/Frankxz/frankzheng.me/blob/master/docs/FSDS.pptx?raw=true)) 
 
 ## 计算机水平
 
@@ -70,5 +70,5 @@ Email：frankzheng@me.com；主页：<https://frankzheng.me>; 领英：[@Frank Z
 
 ## 其它
 
-- 郑翔，2014-01, _iPad黄金搭档|FiftyThree Pencil蓝牙触控笔_, 一篇收录在移动信息杂志的科技测评([PDF](https://github.com/Frankxz/frankzheng.me/blob/master/docs/172-179%E5%A4%A7%E9%85%8D%E8%A7%92.pdf)) 
+- 郑翔，2014-01, _iPad黄金搭档|FiftyThree Pencil蓝牙触控笔_, 一篇收录在移动信息杂志的科技测评([PDF](https://github.com/Frankxz/frankzheng.me/blob/master/docs/172-179%E5%A4%A7%E9%85%8D%E8%A7%92.pdf?raw=true)) 
 

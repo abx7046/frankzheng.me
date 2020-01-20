@@ -6,7 +6,7 @@ disable_comments: true
 
 # Frank Zheng  
 
-Download link: <a href="https://github.com/Frankxz/frankzheng.me/blob/master/docs/CV%20FRANK%20ZHENG.pdf" download>Curriculum Vitae</a>
+Download link: <a href="https://github.com/Frankxz/frankzheng.me/blob/master/docs/CV%20FRANK%20ZHENG.pdf?raw=true" download>Curriculum Vitae</a>
 
 ## Contact Information
 
@@ -51,7 +51,7 @@ Frank Zheng is an analyst at [Murphy USA](https://www.murphyusa.com/). He has st
 
 <!-- Most of my slides were generated from R Markdown. To download the R Markdown source documents, simply replace the extension `.html` with `.Rmd` in the address bar of your web browser. -->
 
-- Frank Zheng, 2019, _Becoming a Full Stack Data Science Professional_, a talk invited by University of Tulsa ([slides](https://github.com/Frankxz/frankzheng.me/blob/master/docs/FSDS.pptx))
+- Frank Zheng, 2019, _Becoming a Full Stack Data Science Professional_, a talk invited by University of Tulsa ([slides](https://github.com/Frankxz/frankzheng.me/blob/master/docs/FSDS.pptx?raw=true))
 
 ## Computer Skills
 
@@ -69,5 +69,5 @@ I often try to improve the efficiency of my work by creating automation scirpts 
 
 ## Misc
 
-- Frank Zheng, 2014, _The Gold pair fot iPad_, A review of FirtyThree Pencil on Yidongxinxi Magazine ([PDF](https://github.com/Frankxz/frankzheng.me/blob/master/docs/172-179%E5%A4%A7%E9%85%8D%E8%A7%92.pdf))
+- Frank Zheng, 2014, _The Gold pair fot iPad_, A review of FirtyThree Pencil on Yidongxinxi Magazine ([PDF](https://github.com/Frankxz/frankzheng.me/blob/master/docs/172-179%E5%A4%A7%E9%85%8D%E8%A7%92.pdfhttps://github.com/Frankxz/frankzheng.me/blob/master/docs/FSDS.pptx?raw=true))
 
