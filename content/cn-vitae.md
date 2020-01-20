@@ -8,7 +8,7 @@ disable_comments: true
 
 ## 联系方式
 
-Email：fxiang-zheng@utula.edu；主页：<https://frankzheng.me>
+Email：frankzheng@me.com；主页：<https://frankzheng.me>
 
 ## 兴趣
 
