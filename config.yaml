@@ -1,6 +1,6 @@
-baseurl: "https://yihui.org"
+baseurl: "https://frankzheng.me"
 languageCode: "en-us"
-title: "Frank Zheng"
+title: "Frank Zheng | 郑翔"
 theme: "hugo-ivy"
 disqusShortname: "frank"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
@@ -63,7 +63,7 @@ menu:
 params:
   description: "Frank Zheng"
   footer: "&copy; [Frank Zheng](/) 2019"
-  disqusURL: "https://yihui.org"
+  disqusURL: "https://frankzheng.me"
   customJS:
     - "js/fix-toc.js"
     - "js/center-img.js"
@@ -74,7 +74,7 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
-  githubContentURL: "https://github.com/rbind/yihui/edit/master/content/"
+  githubContentURL: "https://github.com/Frankxz/Frank.org/tree/master/content"
   #twitterImage: "/images/logo.png"
 
   # options for highlight.js (version, additional languages, and theme)
