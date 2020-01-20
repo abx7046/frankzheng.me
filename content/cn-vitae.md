@@ -8,7 +8,7 @@ disable_comments: true
 
 ## 联系方式
 
-Email：frankzheng@me.com；主页：<https://frankzheng.me>
+Email：frankzheng@me.com；主页：<https://frankzheng.me>; 领英：[@Frank Zheng](https://www.linkedin.com/in/frank-zheng-xiang/).
 
 ## 兴趣
 
@@ -49,9 +49,9 @@ Email：frankzheng@me.com；主页：<https://frankzheng.me>
 
 ## 演讲和讲座
 
-以下多数幻灯片都是基于 R Markdown 文档输出的 HTML 网页格式（尤其是近年来的幻灯片）；若需要查看 R Markdown 源文档，只需要在浏览器地址栏中将 `.html` 扩展名替换为 `.Rmd` 即可下载相应的 R Markdown 文档。
+<!--以下多数幻灯片都是基于 R Markdown 文档输出的 HTML 网页格式（尤其是近年来的幻灯片）；若需要查看 R Markdown 源文档，只需要在浏览器地址栏中将 `.html` 扩展名替换为 `.Rmd` 即可下载相应的 R Markdown 文档。-->
 
-- 郑翔，2019， _Becoming a Full Stack Data Science Professional_, 塔尔萨大学邀请讲座 ([幻灯片](https://bit.ly/dahshu-down); 
+- 郑翔，2019， _Becoming a Full Stack Data Science Professional_, 塔尔萨大学邀请讲座 ([幻灯片](https://bit.ly/dahshu-down)) 
 
 ## 计算机水平
 
@@ -68,5 +68,5 @@ Email：frankzheng@me.com；主页：<https://frankzheng.me>
 
 ### 其它
 
-- 郑翔，2014-01, iPad黄金搭档|FiftyThree Pencil蓝牙触控笔
+- 郑翔，2014-01, _iPad黄金搭档|FiftyThree Pencil蓝牙触控笔_, 一篇收录在移动信息杂志的科技测评([PDF]()) 
 
