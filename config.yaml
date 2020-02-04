@@ -2,7 +2,7 @@ baseurl: "https://frankzheng.me"
 languageCode: "en-us"
 title: "Frank Zheng | 郑翔"
 theme: "hugo-ivy"
-disqusShortname: "frank"
+disqusShortname: "frankzheng-me"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage: true
 enableEmoji: true
