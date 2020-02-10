@@ -62,7 +62,7 @@ menu:
 
 params:
   description: "Personal website of Frank Zheng; 郑翔的个人网站"
-  footer: "&copy; [Frank Zheng](/) 2019"
+  footer: "&copy; [Frank Zheng](/) 2019 - 2020"
   disqusURL: "https://frankzheng.me"
   customJS:
     - "js/fix-toc.js"
@@ -75,7 +75,7 @@ params:
     - "js/alt-title.js"
     - "js/header-link.js"
   githubContentURL: "https://github.com/Frankxz/frankzheng.me/edit/master/content/"
-  #twitterImage: "/images/logo.png"
+  twitterImage: "/images/logo.png"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.12.0"
@@ -104,3 +104,8 @@ params:
   blackfriday:
     extensionsmask: ["noIntraEmphasis"]
     fractions: false
+  
+  markup:
+  goldmark:
+    renderer:
+      unsafe: true
