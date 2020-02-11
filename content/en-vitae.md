@@ -69,5 +69,5 @@ I often try to improve the efficiency of my work by creating automation scirpts 
 
 ## Misc
 
-- Frank Zheng, 2014, _The Gold pair fot iPad_, A review of FirtyThree Pencil on Yidongxinxi Magazine ([PDF](https://github.com/Frankxz/frankzheng.me/blob/master/docs/172-179%E5%A4%A7%E9%85%8D%E8%A7%92.pdf?raw=true))
+- Frank Zheng, 2014, _The Gold Pair for iPad_, A review of FirtyThree Pencil on Yidongxinxi Magazine ([PDF](https://github.com/Frankxz/frankzheng.me/blob/master/docs/172-179%E5%A4%A7%E9%85%8D%E8%A7%92.pdf?raw=true))
 
