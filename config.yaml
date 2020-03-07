@@ -100,7 +100,6 @@ params:
     license:
       cn: "版权"
 
-      
   blackfriday:
     extensionsmask: ["noIntraEmphasis"]
     fractions: false
