@@ -65,8 +65,8 @@ params:
   footer: "&copy; [Frank Zheng](/) 2019 - 2020"
   disqusURL: "https://frankzheng.me"
   customJS:
-    # - "js/fix-toc.js"
-    - "js/remove-toc-links.js"
+    #- "js/fix-toc.js"
+    #- "js/remove-toc-links.js"
     - "js/center-img.js"
     - "js/right-quote.js"
     - "js/no-highlight.js"
