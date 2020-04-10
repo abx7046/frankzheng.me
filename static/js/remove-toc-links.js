@@ -1,4 +1,3 @@
-// Copyright (c) 2020 Frank Zheng under MIT
 function remove_toc_links() {
   var toc = document.getElementById('TableOfContents');
   if (!toc) return;
