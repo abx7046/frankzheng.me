@@ -66,7 +66,7 @@ params:
   disqusURL: "https://frankzheng.me"
   customJS:
     - "js/fix-toc.js"
-    - "js/remove-toc-links.js"
+    # - "js/remove-toc-links.js"
     - "js/center-img.js"
     - "js/right-quote.js"
     - "js/no-highlight.js"
