@@ -1,3 +1,4 @@
+// Copyright (c) 2020 Frank Zheng under MIT
 function remove_toc_links() {
   var toc = document.getElementById('TableOfContents');
   if (!toc) return;
@@ -6,16 +7,19 @@ function remove_toc_links() {
   for (li of lis) {
 
     str = li.innerHTML
-    if (str.includes('-https-') && !str.includes('<ul>')) {
+    //console.log(str)
+    if (str.includes('https://') && !str.includes('<ul>')) {
 
-      begin = str.indexOf('"><')
-      end = str.search('target="_blank') + 14
+      //console.log(str)
+      begin = str.indexOf('</a><a')
+      end = str.search('target="_blank') + 16
 
       delete_text = str.substring(begin, end)
+      //console.log(delete_text)
 
       // add tags and remove the website hyperlinks from TOC
-      str_real = '<li>' + str.replace(delete_text, '') + '</li>'
-      // console.log(str_real)
+      str_real = "<li>" + str.replace(delete_text, '') + "</li>"
+      console.log(str_real)
       li.outerHTML = str_real
     }
   }
