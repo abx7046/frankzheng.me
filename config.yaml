@@ -74,6 +74,7 @@ params:
     - "js/alt-title.js"
     - "js/header-link.js"
     - "js/remove-toc-links.js"
+    
   githubContentURL: "https://github.com/Frankxz/frankzheng.me/edit/master/content/"
   twitterImage: "/images/logo.png"
 

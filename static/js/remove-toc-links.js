@@ -20,7 +20,7 @@ function remove_toc_links() {
       // add tags and remove the website hyperlinks from TOC
       str_real = "<li>" + str.replace(delete_text, '') + "</li>"
       console.log(str_real)
-      li.outerHTML = str_real
+      li.innerHTML = str_real
     }
   }
 }
