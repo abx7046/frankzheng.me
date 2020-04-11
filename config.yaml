@@ -65,8 +65,6 @@ params:
   footer: "&copy; [Frank Zheng](/) 2019 - 2020"
   disqusURL: "https://frankzheng.me"
   customJS:
-    #- "js/fix-toc.js"
-    - "js/remove-toc-links.js"
     - "js/center-img.js"
     - "js/right-quote.js"
     - "js/no-highlight.js"
@@ -75,6 +73,7 @@ params:
     - "js/external-link.js"
     - "js/alt-title.js"
     - "js/header-link.js"
+    - "js/remove-toc-links.js"
   githubContentURL: "https://github.com/Frankxz/frankzheng.me/edit/master/content/"
   twitterImage: "/images/logo.png"
 
