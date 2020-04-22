@@ -2,7 +2,7 @@
 title: Set Up Root Directory for .Rmd and Knitr
 author: Frank Zheng
 date: '2020-04-21'
-slug: knitr-root
+slug: knitr-root-directory
 ---
 
 Yes, we all love to use the magical `knitr` package (Thanks to [Yihui](https://github.com/yihui)) to render `.Rmd` for 
