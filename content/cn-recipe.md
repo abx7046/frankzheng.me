@@ -111,7 +111,7 @@ h2::before { counter-increment: recipe; content: counter(recipe) ". "; }
 
 # 虾
 
-## Shrimp Fajitas
+## [Shrimp Fajitas](https://www.youtube.com/watch?v=vpv_jOsOxLA&t=71s)
 
 混合腌料，1/4 Cup 橄榄油， 大量蒜泥，一勺青柠汁，一勺 Canjun Spice, 半勺盐。红黄绿椒，洋葱，切条。香菜切碎。将腌料分成一半倒入各自一磅虾和蔬菜后，搅匀。大火烧开，煎虾，表面略焦黄即可出锅。去除锅内杂质，保留油，煎蔬菜，有些焦黄即可关火，最后放入之前做好的虾并放入香菜和青柠汁。加热 Tortillas, 配上牛油果，Salsa, Jalapeno Ranch, 即可食用。
 
