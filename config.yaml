@@ -59,7 +59,6 @@ menu:
       url: "/en/"
       weight: 6
 
-
 params:
   description: "Personal website of Frank Zheng; 郑翔的个人网站"
   footer: "&copy; [Frank Zheng](/) 2019 - 2020"
@@ -74,7 +73,7 @@ params:
     - "js/alt-title.js"
     - "js/header-link.js"
     - "js/remove-toc-links.js"
-    
+
   githubContentURL: "https://github.com/Frankxz/frankzheng.me/edit/master/content/"
   twitterImage: "/images/logo.png"
 
@@ -101,11 +100,11 @@ params:
     license:
       cn: "版权"
 
-  blackfriday:
+blackfriday:
     extensionsmask: ["noIntraEmphasis"]
     fractions: false
-  
-  markup:
+
+markup:
   goldmark:
     renderer:
       unsafe: true
