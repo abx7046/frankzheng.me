@@ -61,7 +61,7 @@ menu:
 
 params:
   description: "Personal website of Frank Zheng; 郑翔的个人网站"
-  footer: "&copy; [Frank Zheng](/) 2019 - 2020"
+  footer: "&copy; [Frank Zheng](/) 2019 - 2022"
   disqusURL: "https://frankzheng.me"
   customJS:
     - "js/center-img.js"
