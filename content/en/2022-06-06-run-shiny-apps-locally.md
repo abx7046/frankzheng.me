@@ -37,4 +37,26 @@ ip <- system("ifconfig lo0 | grep -w inet | awk '{print $2}'", intern = TRUE)
 port = 8888
 print(paste0("the Shiny App runs on: http://", ip, ":", port))
 runApp(folder_address, launch.browser=FALSE, port = port, host = ip)
+
 ```
+```r
+some change proposal to the code:
+folder_address = getwd()
+
+if (.Platform$OS.type == "unix") { 
+     ip <- system("ifconfig <b>en0</b> | grep -w inet | awk '{print $2}'", intern=TRUE) 
+} else if (.Platform$OS.type == "windows") {
+     x <- system("ipconfig", intern=TRUE)
+     z <- x[grep("IPv4", x)]
+     ip <- gsub(".*? ([[:digit:]])", "\\1", z) 
+} else {"Platform not supported"}
+
+port = 8888
+
+print(paste0("the shiny app runs on: http://", ip, ":", port))
+
+shiny::runApp(folder_address, launch.browser = FALSE, port = port, host = <b>ip[1]</b>)
+
+Change log: ip[1] instead of ip; en0 instead of lo0; if else instead of adding removing comments.
+```
+
